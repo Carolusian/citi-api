@@ -1,0 +1,3 @@
+rootProject.name = 'AwesimSteps'
+
+include ':app'
